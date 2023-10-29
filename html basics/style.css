@@ -1,0 +1,27 @@
+.date{
+    color:rgb(148, 147, 146);
+    font-size: small;
+}
+.span{
+    color:rgb(148, 147, 146);
+}
+.text{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 500px;
+}
+.container{
+    display: flex;
+}
+.time{
+    color: rgb(148, 147, 146);
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: small;
+
+}.speaker{
+    margin-left: 25px;
+    margin-top: 20px;
+    word-spacing: 5px;
+}
